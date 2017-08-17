@@ -1,2 +1,2 @@
-# 2 Obligatorisk Opgave
+# Obligatorisk Opgave
 Den obligatoriske opgave på 2. semester SWC
